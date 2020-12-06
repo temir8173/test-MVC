@@ -10,8 +10,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "liw\\": "",
-            "core\\": "/vendor/my-app/"
+            "liw\\": ""
         }
     }
 }

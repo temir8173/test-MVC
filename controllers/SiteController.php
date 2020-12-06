@@ -3,10 +3,6 @@
 use liw\models\UserModel;
 use liw\vendor\core\BaseController;
 
-
-//include_once ROOT. '/models/UserModel.php';
-//include_once ROOT. '/vendor/my-app/BaseController.php';
-
 /**
  * 
  */
