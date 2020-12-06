@@ -1,0 +1,17 @@
+{
+    "name": "temirlan/mvc",
+    "description": "first mvc",
+    "authors": [
+        {
+            "name": "Temirlan Iliyassov",
+            "email": "temir8173@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "liw\\": "",
+            "core\\": "/vendor/my-app/"
+        }
+    }
+}
